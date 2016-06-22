@@ -1,0 +1,67 @@
+Customer Chat
+Chat Transcript
+Please wait while we find a representative to assist you.
+Thank you for your patience. You are currently in position 1. Please continue to wait or use our extensive Knowledgebase found here to search for a solution.
+All agents are currently busy. Please stand by.
+Thank you for your patience. You are currently in position 1. Please continue to wait or use our extensive Knowledgebase found here to search for a solution.
+An agent will be with you in a moment. Thank you for your patience.
+Thank you for your patience. You are currently in position 1. Please continue to wait or use our extensive Knowledgebase found here to search for a solution.
+You have been connected to Bertrum .
+Bertrum :  Hello Livne, how may I assist you?
+Livne Niv:  hello Bertrum,
+Livne Niv:  i have several questions about EV-SSL
+Livne Niv:  we havent yet registered or validated any domains with you, in case all of the paperwork is in order, how long does it usually take to complete the validation process?
+Bertrum :  Please hold while I transfer you to our verification team, they will be able to assist you further (Please be advised that all chat history will be included in the transfer for your convenience)
+Bertrum has left the session.
+Please wait while we find an agent from the transfer Customer Support Verisign department to assist you.
+The next available Agent will be with you in a moment.
+All agents are currently busy. Please stand by.
+An agent will be with you in a moment. Thank you for your patience.
+The next available Agent will be with you in a moment.
+All agents are currently busy. Please stand by.
+An agent will be with you in a moment. Thank you for your patience.
+The next available Agent will be with you in a moment.
+All agents are currently busy. Please stand by.
+An agent will be with you in a moment. Thank you for your patience.
+The next available Agent will be with you in a moment.
+You have been connected to Niels S.
+Niels S:  Good day. I see you have been transferred. Allow me to get your order and read you previous conversation please.
+Niels S:  Ok, what questions do you have about EV exactly?
+Livne Niv:  hi Niels, no order Yet... just several questions..
+Livne Niv:  we havent yet registered or validated any domains with you, in case all of the paperwork is in order, how long does it usually take to complete the validation process?
+Niels S:  5 to 10 business days
+Livne Niv:  do you also validate for companies registered in Israel?
+Niels S:  yes
+Livne Niv:  that's good, 
+Livne Niv:  when i fill the order form, it asks me - how many servers do i have
+Livne Niv:  in case i have several web servers hosting the same site using a load balancer,
+Livne Niv:  do i still have to pay per server?
+Niels S:  that is a question you should ask sales, but in general you buy server licenses, so I think so
+Livne Niv:  ok, thank you very much for your help, can you transfer me back to the sales?
+Niels S has left the session.
+Please wait while we find an agent from the VRSN Sales Switzerland (CH) SSL department to assist you.
+All agents are currently busy. Please stand by.
+An agent will be with you in a moment. Thank you for your patience.
+You have been connected to Bertrum .
+Bertrum :  Hello Livne, please hold a moment while I read the chat history.
+Bertrum :  You need to buy an extra license for each extra server you looking to secure.
+Bertrum :  The license gives you the right to copy the certificate onto an extra server.
+Livne Niv:  hmm, i see.
+Livne Niv:  ok, i'll now register and proceed with the process.
+Livne Niv:  thanks,
+Bertrum :  You are welcome.
+Bertrum :  Have a great day further.
+Bertrum :  Bye.
+Livne Niv:  bye
+Thank you for using Live Chat. You may now end your session by clicking on "End Session".
+Your session has ended. You may now close this window.
+Input Area
+Enter chat text here, press enter to send  
+Images
+ 
+X-DSPAM-Confidence:
+X-DSPAM-Confidence:
+X-DSPAM-Confidence:
+X-DSPAM-Confidence:
+ 
+
